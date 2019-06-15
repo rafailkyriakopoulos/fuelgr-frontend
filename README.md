@@ -1,7 +1,7 @@
 Το Project αφορά εργασία εξαμήνου στο μάθημα "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΑΓΚΟΣΜΙΟΥ ΙΣΤΟΥ" του καθηγητή Φώτη Κόκκορα
 
 
-# ![Logo](https://fuelgr.gr/web/img/app_logo/fuelGR-map.png) fuelgr-spring
+# ![Logo](https://fuelgr.gr/web/img/app_logo/fuelGR-map.png) fuelgr-frontend
 
 
 Το project κάνει χρήση των εννοιών που διδάχτηκαν στο μάθημα.
