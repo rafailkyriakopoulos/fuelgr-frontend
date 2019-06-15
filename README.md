@@ -13,7 +13,7 @@ https://github.com/rafailkyriakopoulos/fuelgr-spring-backend
 **1. Clone the repository:**
 
 ```
-$ git clone https://github.com/rafailkyriakopoulos/fuelgr-frontend
+$ git clone https://github.com/rafailkyriakopoulos/fuelgr-frontend.git
 ```
 
 
